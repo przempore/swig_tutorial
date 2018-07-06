@@ -1,0 +1,5 @@
+.gitignore
+*.o
+*.so
+example.py
+example_wrap.cxx
